@@ -23,7 +23,9 @@
           { title: 'PetShop Web E-Commerce', description: 'eCommerce website with client and admin actors.', link: 'https://github.com/Soukthavilay/MERN-PetShop.git' },
           { title: 'Clothing App', description: 'An app for easy ordering from a store.', link: 'https://github.com/Soukthavilay/API_ClotingApp.git' },
           { title: 'USB Web Detect', description: 'Detect USB devices plugged into a computer.', link: 'https://github.com/Soukthavilay/PBL4_USB_Web_Detect.git' },
-          { title: 'Pharmacy System Manager', description: 'An application to manage a pharmacy system.', link: 'https://github.com/Soukthavilay/PBL_Pharmacy_System_Manager.git' }
+          { title: 'Pharmacy System Manager', description: 'An application to manage a pharmacy system.', link: 'https://github.com/Soukthavilay/PBL_Pharmacy_System_Manager.git' },
+          { title: 'Technology Web E-Commerce', description: 'eCommerce website with client and admin actors. And pay with PayPal', link: 'https://github.com/Soukthavilay/PBLFinal' },
+          { title: 'Fashion store Web E-Commerce', description: 'eCommerce website with client and admin actors. And pay with PayPal', link: 'https://github.com/Soukthavilay/fashion-store' }
         ]
       };
     }

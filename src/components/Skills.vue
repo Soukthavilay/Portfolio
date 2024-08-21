@@ -17,7 +17,7 @@
   export default defineComponent({
     data() {
       return {
-        skills: ['HTML', 'CSS', 'JavaScript', 'Vue', 'Node.js', 'C++', 'Unity', 'SQLServer']
+        skills: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'Apex', 'Unity', 'SQLServer', 'C#']
       };
     }
   });

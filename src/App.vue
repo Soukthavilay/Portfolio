@@ -4,6 +4,7 @@
     <Hero />
     <About />
     <Skills />
+    <Frameworks />
     <Projects />
     <Contact />
     <Footer />
@@ -19,6 +20,7 @@ import Skills from './components/Skills.vue';
 import Projects from './components/Project.vue';
 import Contact from './components/Contact.vue';
 import Footer from './components/Footer.vue';
+import Frameworks from './components/Framework.vue';
 
 export default defineComponent({
   components: {
@@ -26,6 +28,7 @@ export default defineComponent({
     Hero,
     About,
     Skills,
+    Frameworks,
     Projects,
     Contact,
     Footer

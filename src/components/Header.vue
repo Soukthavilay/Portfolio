@@ -6,6 +6,7 @@
           <ul class="flex space-x-8">
             <li><a href="#about" class="hover:text-gray-500">About</a></li>
             <li><a href="#skills" class="hover:text-gray-500">Skills</a></li>
+            <li><a href="#framework" class="hover:text-gray-500">Frameworks</a></li>
             <li><a href="#projects" class="hover:text-gray-500">Projects</a></li>
             <li><a href="#contact" class="hover:text-gray-500">Contact</a></li>
           </ul>
@@ -21,6 +22,6 @@
   </script>
   
   <style scoped>
-  /* Add any custom styling here */
+
   </style>
   
