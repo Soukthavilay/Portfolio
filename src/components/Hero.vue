@@ -8,7 +8,7 @@
       </div>
       <div class="md:w-1/2 text-white z-10">
         <h2 class="text-5xl font-bold mb-4">Hello, I'm Boupaphan Soukthavilay</h2>
-        <p class="text-xl mb-8">I am a passionate Software Developer with expertise in web and mobile development. I enjoy solving complex problems and bringing ideas to life through code. Currently working at FREEMIND company.</p>
+        <p class="text-xl mb-8">I am a passionate Software Developer with expertise in web and game development. I enjoy solving complex problems and bringing ideas to life through code. Currently working at FREEMIND company.</p>
         <a href="#projects" class="px-8 py-4 bg-secondary text-primary rounded-md hover:bg-gray-300">
           View My Projects
         </a>
